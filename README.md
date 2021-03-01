@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently helping the [Tilted Online](https://github.com/tiltedphoques/TiltedOnline) project
+
+🌱 I’m currently learning C++
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Dragonisser&show_icons=true&count_private=true)
+
+
+
 <!--
 **Dragonisser/Dragonisser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
