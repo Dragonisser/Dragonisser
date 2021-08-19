@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently helping the [Tilted Online](https://github.com/tiltedphoques/TiltedOnline) project
-
-🌱 I’m currently learning C++
+🔭 I’m currently working with Spring Boot and Vue2Js
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Dragonisser&show_icons=true&count_private=true)
 
