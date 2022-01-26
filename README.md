@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working with Spring Boot, Vue.js and Angular
+🔭 I’m currently working with Spring Boot and Angular
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Dragonisser&show_icons=true&count_private=true)
 
