@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working with Spring Boot and Angular
+🔭 I’m also back to modding minecraft
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Dragonisser&show_icons=true&count_private=true)
 
