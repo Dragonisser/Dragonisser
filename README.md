@@ -6,7 +6,7 @@
 
 🔭 I’m also back to modding minecraft
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Dragonisser&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=dragonisser&show_icons=true&theme=radical&count_private=true)
 
 
 
