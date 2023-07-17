@@ -2,8 +2,6 @@
 
 👯 I’m currently helping with [Skyrim Together](https://github.com/tiltedphoques/TiltedOnline)
 
-🔭 I’m working with Spring Boot and Angular
-
 🔭 I’m also back to modding minecraft
 
 ![](https://github-readme-stats.vercel.app/api?username=dragonisser&show_icons=true&theme=radical&count_private=true)
