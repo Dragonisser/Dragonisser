@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-👯 I’m currently helping with [Skyrim Together](https://github.com/tiltedphoques/TiltedOnline)
+🔭 I’m currently working fixing and overhauling multiple Sourcemod plugins, specifically [TowerDefense](https://github.com/tf2td/towerdefense)
 
-🔭 I’m also back to modding minecraft
+👯 I was helping at [Skyrim Together](https://github.com/tiltedphoques/TiltedOnline), primarily the UI
+
+😄 I’m also back to modding [Minecraft](https://github.com/Dragonisser/CobaltMod-3)
 
 ![](https://github-readme-stats.vercel.app/api?username=dragonisser&show_icons=true&theme=radical&count_private=true)
 
